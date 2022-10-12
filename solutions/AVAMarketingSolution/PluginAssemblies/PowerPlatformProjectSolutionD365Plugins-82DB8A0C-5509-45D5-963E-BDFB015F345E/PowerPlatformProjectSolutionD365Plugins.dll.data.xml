@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PluginAssembly FullName="PowerPlatformProjectSolution.D365Plugins, Version=1.0.0.1, Culture=neutral, PublicKeyToken=b9db2e4f2786ba10" PluginAssemblyId="82db8a0c-5509-45d5-963e-bdfb015f345e" CustomizationLevel="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsolationMode>2</IsolationMode>
+  <SourceType>0</SourceType>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <FileName>/PluginAssemblies/PowerPlatformProjectSolutionD365Plugins-82DB8A0C-5509-45D5-963E-BDFB015F345E/PowerPlatformProjectSolutionD365Plugins.dll</FileName>
+  <PluginTypes>
+    <PluginType AssemblyQualifiedName="PowerPlatformProjectSolution.D365Plugins.CheckAccount, PowerPlatformProjectSolution.D365Plugins, Version=1.0.0.1, Culture=neutral, PublicKeyToken=b9db2e4f2786ba10" PluginTypeId="5be682b7-1156-4bd8-8994-22131e58d5ba" Name="PowerPlatformProjectSolution.D365Plugins.CheckAccount">
+      <FriendlyName>ba723b10-94de-4289-a832-817a87fef3af</FriendlyName>
+    </PluginType>
+  </PluginTypes>
+</PluginAssembly>
