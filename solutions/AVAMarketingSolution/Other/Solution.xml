@@ -93,6 +93,18 @@
         <Dependent type="60" displayName="Account" parentDisplayName="Account" id="{8448b78f-8f42-454e-8e2a-f8196b0419af}" />
       </MissingDependency>
       <MissingDependency>
+        <Required type="61" schemaName="adx_app_icon.svg" displayName="adx_app_icon.svg" solution="MicrosoftPortalDependencies (9.3.2209.2)">
+          <package>CDSBasePortal (9.3.2204.70)</package>
+        </Required>
+        <Dependent type="80" schemaName="Dynamics365Portals" displayName="Portal Management" />
+      </MissingDependency>
+      <MissingDependency>
+        <Required type="62" schemaName="Dynamics365Portals" solution="MicrosoftPortalDependencies (9.3.2209.2)">
+          <package>CDSBasePortal (9.3.2204.70)</package>
+        </Required>
+        <Dependent type="80" schemaName="Dynamics365Portals" displayName="Portal Management" />
+      </MissingDependency>
+      <MissingDependency>
         <Required type="80" schemaName="Dynamics365Portals" displayName="Portal Management" solution="MicrosoftPortalDependencies (9.3.2209.2)">
           <package>CDSBasePortal (9.3.2204.70)</package>
         </Required>
